@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace WcfDemo
 {
-
+ 
     [ServiceContract]
     public interface IService
     {
